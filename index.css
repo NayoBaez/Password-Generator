@@ -1,0 +1,69 @@
+body {
+  margin-top: 35px;
+  background: #f9f8fe;
+}
+
+.password--container {
+  width: 550px;
+  height: 550px;
+  display: block;
+  margin: 0 auto;
+  background: #1f2937;
+  padding: 52px;
+}
+
+.password--title {
+  font-family: "Karla", sans-serif;
+  color: white;
+  font-family: "Karla";
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 40px;
+  letter-spacing: -0.025em;
+}
+
+.password--title-2 {
+  color: #4adf86;
+}
+
+.password--subtitle {
+  font-family: "Inter", sans-serif;
+  color: #d5d4d8;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+button {
+  font-family: "Inter", sans-serif;
+  align-items: center;
+  padding: 9px 17px 9px 15px;
+  background: #10b981;
+  border: none;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  color: white;
+  margin-bottom: 35px;
+}
+
+.password--devider {
+  border: 1px solid #2f3e53;
+}
+
+.password-boxWrapper {
+  margin-top: 35px;
+}
+
+.password--boxOne,
+.password--boxTwo {
+  border-radius: 6px;
+  background: #273549;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: #55f991;
+  padding: 7px 17px 7px 15px;
+  margin-right: 24px;
+}
